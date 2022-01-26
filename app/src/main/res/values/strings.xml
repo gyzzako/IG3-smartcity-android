@@ -1,0 +1,113 @@
+<resources>
+
+    <string name="app_name">Donation app</string>
+    <string name="username">Pseudo</string>
+    <string name="password">Mot de passe</string>
+    <string name="login">login</string>
+    <string name="connexion">Connexion</string>
+    <string name="Inscription">Inscription</string>
+    <string name="prénom">Prénom</string>
+    <string name="nom">Nom</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="motdepasse">Mot de passe</string>
+    <string name="province">Province</string>
+    <string name="ville">Ville</string>
+    <string name="adresse">Adresse</string>
+    <string name="telephone">Téléphone</string>
+    <string name="inscription">S\'inscrire</string>
+    <string name="registrate">Pas encore inscrit ?, crée un compte</string>
+    <string name="back_to_login">Retour</string>
+    <string name="bonjour">Bonjour </string>
+    <string name="liste_repas">Liste de repas</string>
+    <string name="repas_position">Repas selectionné</string>
+    <string name="registration_message">Inscription réussie !</string>
+
+
+    <!--Errors-->
+    <string name="username_empty_message">Le pseudo est obligatoire !</string>
+    <string name="password_empty_message">Le mot de passe est obligatoire !</string>
+    <string name="firstname_empty_error">prénom obligatoire</string>
+    <string name="lastname_empty_error">Nom obligatoire</string>
+    <string name="province_empty_error">Province est obligatoire</string>
+    <string name="city_empty_error">La ville est obligatoire</string>
+    <string name="street_and_number_empty_error">Le numéro et la rue sont obligatoires</string>
+    <string name="address_empty_error">Adresse obligatoire !</string>
+    <string name="mandatory_fields_error">Ces champs sont obligatoires</string>
+    <string name="connection_error">Pas de connexion internet</string>
+    <string name="no_error_detected">Aucune erreur detectée</string>
+    <string name="request_error">Une erreur s\'est produite pendant la requete</string>
+    <string name="technical_error">Il y a une erreur technique</string>
+    <string name="usernameWarneMessage">Le pseudo est obligatoire!</string>
+    <string name="passwordWarnMessage">Le mot de passe est obligatoire</string>
+    <string name="invalid_username">Pseudo invalide</string>
+    <string name="invalid_password">Mot de passe de 5 caractères min</string>
+    <string name="login_failed">Connexion échouée</string>
+    <string name="user_exists">Cet utilisateur existe deja</string>
+    <string name="phone_error">Numéro de téléphone obligatoire</string>
+
+    <string name="meal_name_error">Nom de repas obligatoire</string>
+    <string name="meal_categorie_error">Catégorie obligatoire</string>
+    <string name="nbPortions_error">La portion est obligatoire</string>
+    <string name="meal_description_error">Description obligatoire</string>
+    <string name="camera_error">Cette action est impossible</string>
+    <string name="meal_already_claimed">Un repas de votre panier a déjà été réclamé</string>
+    <string name="credentials_problem">Pseudo ou mot de passe incorrect !</string>
+
+
+
+    <!--Welcome message-->
+    <string name="welcome_message">Bienvenues sur l\'application de donation de nourriture <b></b></string>
+    <string name="register_page_message">inscription</string>
+    <string name="connection_message">Vous etes connecté !</string>
+    <string name="se_connecter">Se connecter</string>
+
+    <!--Share preferences values-->
+    <string name="token">token</string>
+    <string name="sharedPref">sharedPref</string>
+
+
+    <!-- other Strings -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Mot de passe </string>
+    <string name="action_sign_in">Connecte ou enregistre toi</string>
+    <string name="action_sign_in_short">S\' inscrire</string>
+    <string name="welcome">"Bienvenue"</string>
+    <string name="disponible">Disponible :</string>
+    <string name="utilisateur">Client :</string>
+    <string name="categorie">Categorie :</string>
+    <string name="categoriesList">1) Burger 2) Pizza 3) Sushi\n4) Plat belge 5) Plat espagnol</string>
+    <string name="description">Description :</string>
+    <string name="nom_repas">Nom du repas :</string>
+    <string name="header_text">Liste des repas</string>
+    <string name="portion_number">Quantité: </string>
+    <string name="datePublication">Date de publication :</string>
+    <string name="addToCart">Ajouter au panier</string>
+    <string name="meal_clicked">Plat selectionné</string>
+    <string name="nomReaps">nom du repas</string>
+    <string name="description_repas">description</string>
+    <string name="categorie_repas">catégorie</string>
+    <string name="nombre_portion">nombre de portions</string>
+    <string name="donation">Donation</string>
+    <string name="cart">Panier</string>
+    <string name="donner">Donner</string>
+    <string name="take_a_picture">Prendre une photo</string>
+    <string name="take_picture_message">Appuyez sur le bouton pour prendre une photo du repas</string>
+    <string name="navigation_open">Ouvrir le menu de navigation</string>
+    <string name="navigation_close">Fermer le menu de navigation</string>
+    <string name="connecting">Connexion...</string>
+    <string name="imageRequired">Une photo est requise</string>
+    <string name="claim">Réclamer</string>
+    <string name="enterNumber">Entrez des chiffres pour\ncatégorie et nombre de portion</string>
+    <string name="emptyCart">Panier vide</string>
+    <string name="mealAlreadyInCart">Ce repas est déjà dans le panier</string>
+    <string name="quantity">Quantité: </string>
+    <string name="logout">Se déconnecter </string>
+    <string name="resetCart">Vider le panier</string>
+    <string name="phone_character">Entrez des chiffres pour le numéro de téléphone</string>
+
+
+    <string name="arnaud_donny"><![CDATA[made by Arnaud Berg & Donny Mboma]]></string>
+    <string name="login_sucess">Connecté !</string>
+    <string name="ok_text">OK</string>
+
+</resources>

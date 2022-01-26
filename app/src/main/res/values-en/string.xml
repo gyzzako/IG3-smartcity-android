@@ -1,0 +1,112 @@
+<resources>
+
+    <string name="app_name">Donation app</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="connexion">Login</string>
+    <string name="Inscription">Signup</string>
+    <string name="prénom">Firstname</string>
+    <string name="nom">Lastname</string>
+    <string name="pseudo">Username</string>
+    <string name="motdepasse">Password</string>
+    <string name="province">Province</string>
+    <string name="ville">City</string>
+    <string name="adresse">Address</string>
+    <string name="telephone">Phone number</string>
+    <string name="inscription">Signup</string>
+    <string name="registrate">Not signup yet? Create an account</string>
+    <string name="back_to_login">Back</string>
+    <string name="bonjour">Helo </string>
+    <string name="liste_repas">Meals list</string>
+    <string name="repas_position">Chosen meals</string>
+    <string name="registration_message">Signup success !</string>
+
+
+    <!--Errors-->
+    <string name="username_empty_message">Username is mandatory !</string>
+    <string name="password_empty_message">Password is mandatory !</string>
+    <string name="firstname_empty_error">Firstname is mandatory !</string>
+    <string name="lastname_empty_error">Lastname is mandatory !</string>
+    <string name="province_empty_error">Province is mandatory !</string>
+    <string name="city_empty_error">City is mandatory !</string>
+    <string name="street_and_number_empty_error">Street and number is mandatory !</string>
+    <string name="address_empty_error">address is mandatory !</string>
+    <string name="mandatory_fields_error">These fields are mandatory !</string>
+    <string name="connection_error">No internet connection</string>
+    <string name="no_error_detected">No error detected</string>
+    <string name="request_error">An error occurred</string>
+    <string name="technical_error">Technical errror</string>
+    <string name="usernameWarneMessage">Username is mandatory !</string>
+    <string name="passwordWarnMessage">Password is mandatory !</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">Login failed</string>
+    <string name="user_exists">This user already exists</string>
+    <string name="phone_error">Phone number is mandatory !</string>
+
+    <string name="meal_name_error">Meal name is mandatory !</string>
+    <string name="meal_categorie_error">Category is mandatory !</string>
+    <string name="nbPortions_error">Portion number is mandatory !</string>
+    <string name="meal_description_error">Description is mandatory !</string>
+    <string name="camera_error">Impossible to do this action</string>
+    <string name="meal_already_claimed">A meal in your cart has already been claimed</string>
+    <string name="credentials_problem">Wrong username or password</string>
+
+
+    <!--Welcome message-->
+    <string name="welcome_message">Welcome to donation app <b></b></string>
+    <string name="register_page_message">Signup</string>
+    <string name="connection_message">You are logged in</string>
+    <string name="se_connecter">Login</string>
+
+    <!--Share preferences values-->
+    <string name="token">token</string>
+    <string name="sharedPref">sharedPref</string>
+
+
+    <!-- other Strings -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="disponible">Available :</string>
+    <string name="utilisateur">Client :</string>
+    <string name="categorie">Category :</string>
+    <string name="categoriesList">1) Burger 2) Pizza 3) Sushi\n4) Belgian meal 5) Spanish meal</string>
+    <string name="description">Description :</string>
+    <string name="nom_repas">Meal name :</string>
+    <string name="header_text">Meals list</string>
+    <string name="portion_number">Quantity: </string>
+    <string name="datePublication">Publication date :</string>
+    <string name="addToCart">Add to cart</string>
+    <string name="meal_clicked">Chosen meals</string>
+    <string name="nomReaps">Meal name</string>
+    <string name="description_repas">description</string>
+    <string name="categorie_repas">Catégory</string>
+    <string name="nombre_portion">Portion name</string>
+    <string name="donation">Donation</string>
+    <string name="cart">Cart</string>
+    <string name="donner">Give</string>
+    <string name="take_a_picture">Take a picture</string>
+    <string name="take_picture_message">Click the button to take a picture</string>
+    <string name="navigation_open">Open navigation drawer</string>
+    <string name="navigation_close">Close navigation drawer</string>
+    <string name="connecting">Connection...</string>
+    <string name="imageRequired">A picture is required</string>
+    <string name="claim">Claim</string>
+    <string name="enterNumber">Enter number for\ncategory and portion number</string>
+    <string name="emptyCart">Empty cart</string>
+    <string name="mealAlreadyInCart">This meal is already in your cart</string>
+    <string name="quantity">Quantity: </string>
+    <string name="logout">Logout </string>
+    <string name="resetCart">Clear cart</string>
+    <string name="phone_character">Enter number for phone number</string>
+
+
+
+    <string name="arnaud_donny"><![CDATA[made by Arnaud Berg & Donny Mboma]]></string>
+    <string name="login_sucess">Connected !</string>
+    <string name="ok_text">OK</string>
+
+</resources>

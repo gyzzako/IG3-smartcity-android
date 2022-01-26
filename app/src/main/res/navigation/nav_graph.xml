@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mealRecyclerView">
+
+    <fragment
+        android:id="@+id/mealFragment"
+        android:name="com.example.ig3_smartcity_android.ui.fragment.MealRecycleViewFragment"
+        android:label="MealRecycleView"
+        tools:layout="@layout/fragment_meal_recycle_view">
+
+    </fragment>
+
+</navigation>
